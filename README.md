@@ -1,5 +1,5 @@
 <h1 align="center">OpenVersify</h1>
-<h3 align="center">Team-Driven, OpenAPI Crafted – Scaled for Teams, Aligning Development and APIs.</h3>
+<h3 align="center">With a team-centric approach and OpenAPI mastery, OpenVersify bridges development and APIs, designed to scale with expansive team projects.</h3>
 
 <p align="center">
   <strong>OpenVersify streamlines the OpenAPI development experience for teams. By seamlessly integrating versioning, SDK management, and schema synchronization, it lets you concentrate on crafting impeccable APIs while ensuring a harmonized development flow from code to documentation.</strong>
