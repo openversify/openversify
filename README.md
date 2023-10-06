@@ -1,7 +1,9 @@
 <h1 align="center">OpenVersify</h1>
 
-<h3>Team-driven and code-first platform, masterfully crafts OpenAPI specs, aligning 
-development with APIs, and is optimized to scale with expansive team codebases.</h3>
+<p align="center">
+<strong>Team-driven and code-first platform, masterfully crafts OpenAPI specs, aligning 
+development with APIs, and is optimized to scale with expansive team codebases.</strong>
+</p>
 
 ## 🚀 Features
 
