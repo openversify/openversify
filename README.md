@@ -1,11 +1,7 @@
 <h1 align="center">OpenVersify</h1>
-<h3 align="center">With a team-centric approach and OpenAPI mastery, OpenVersify bridges development and APIs, designed to scale with expansive team projects.</h3>
 
-<p align="center">
-  <strong>OpenVersify streamlines the OpenAPI development experience for teams. By seamlessly integrating versioning, SDK management, and schema synchronization, it lets you concentrate on crafting impeccable APIs while ensuring a harmonized development flow from code to documentation.</strong>
-</p>
-
----
+<h3>Team-driven and code-first platform, masterfully crafts OpenAPI specs, aligning 
+development with APIs, and is optimized to scale with expansive team codebases.</h3>
 
 ## 🚀 Features
 
