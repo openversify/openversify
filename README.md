@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omermorad/OpenVersify/master/logo.png" alt="Logo" />
+ <img src="https://raw.githubusercontent.com/omermorad/OpenVersify/master/logo.jpg" alt="Logo" />
 </p>
 
 <h1 align="center">OpenVersify</h1>
